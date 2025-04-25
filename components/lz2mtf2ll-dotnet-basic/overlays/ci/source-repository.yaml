@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lz2mtf2ll-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/lz2mtf2ll-dotnet-basic
